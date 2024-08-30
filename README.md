@@ -1,4 +1,4 @@
-# SQL-POWER-BI-Project---Bank-Loan-Report-
+# SQL-POWER-BI-Project---Bank-Loan-Report:
 
 Project Overview:
 This project aims to provide comprehensive insights into bank loan data using SQL for data extraction, and transformation, and Power BI for visualization.
